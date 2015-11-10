@@ -1,0 +1,5 @@
+[2015-07-03 16:21:21] [Emergency] [.\main.cpp-16: log level0]
+[2015-07-03 16:21:21] [Alarm] [.\main.cpp-16: log level1]
+[2015-07-03 16:21:21] [Critical] [.\main.cpp-16: log level2]
+[2015-07-03 16:21:21] [Error] [.\main.cpp-16: log level3]
+[2015-07-03 16:21:21] [Warning] [.\main.cpp-16: log level4]
